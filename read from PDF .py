@@ -1,3 +1,6 @@
+#Install pypdf in the library
+#pip3 install PyPDF2
+
 # Importing required modules
 import PyPDF2
 
